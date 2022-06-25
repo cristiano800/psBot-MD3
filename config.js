@@ -41,20 +41,20 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['212705570169'] //ur owner number
-global.ownername = "Amin🙂"
-global.ytname = "YT:😏" //ur yt chanel name
+global.owner = ['212695290310'] //ur owner number
+global.ownername = "MOUAD"
+global.ytname = "YT:🤗" //ur yt chanel name
 global.socialm = "GitHub: ???" //ur github or insta name
-global.location = "Morocco, tetouan" //ur location
+global.location = "Morocco, casablanca" //ur location
 
 //bot bombdy
-global.botname = "NAMX-BOT" //ur bot name
+global.botname = "MOUAD-EL" //ur bot name
 global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
-global.themeemoji = "🐶"
-global.reactmoji = "😘"
+global.packname = "mouad el Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "mouuad elk"
+global.themeemoji = "😎"
+global.reactmoji = "❤"
 global.ownertag = ['ur number'] //ur owner tag
 global.ownernummenu = ['ur number'] //ur owner number in menu and all
 global.watermark = "Xeon Bot Inc." //ur watermark
